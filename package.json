@@ -89,7 +89,8 @@
     "react-intl": "^6.4.5",
     "react-redux": "7.2.9",
     "react-router-dom": "5.3.4",
-    "redux": "4.2.1"
+    "redux": "4.2.1",
+    "vercel": "^33.1.0"
   },
   "resolutions": {
     "@emotion/react": "^11.11.1",
